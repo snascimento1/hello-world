@@ -1,4 +1,4 @@
 # hello-world
-int main{
+int main(){
 system("Olá mundo");
 }
